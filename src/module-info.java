@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Srilatha
+ *
+ */
+module example {
+}
